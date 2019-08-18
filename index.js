@@ -9,8 +9,8 @@ function sayHeyFriend(name){
   return ("Hey," + name );
 }
 
-function favoriteIceCream (n){
-return ("I love" + n )
+function favoriteIceCream (){
+return ("I love mint chocolate chip" )
 }
 function shouting(){
   return("I LOVE JAVASCRIPT SOOOOOO MUCH");
