@@ -2,7 +2,10 @@ function  thetruth (flavor) {
   debugger;
 }
 
-function sayHi(){
-  debugger;
+function sayHey(){
+  return ("hey!");
+}
+function sayHeyFriend(name){
+  return ("hey+ ${ name }");
 }
 
