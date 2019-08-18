@@ -1,4 +1,5 @@
-function favoriteIceCream(flavor) {
+function  thetruth (flavor) {
   debugger;
 }
+
 
