@@ -1,4 +1,4 @@
-function  thetruth (10,15) {
+function  thetruth(10,15) {
   if (10 === 15) {
     return false;
   } else {
