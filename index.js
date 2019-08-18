@@ -1,6 +1,9 @@
-function  thetruth () {
-  if (1 > 0)
-  return true;
+function  thetruth (a,b) {
+  if (a === b) {
+    return true;
+  } else {
+    return false;
+  }
 }
 
 function sayHey(){
