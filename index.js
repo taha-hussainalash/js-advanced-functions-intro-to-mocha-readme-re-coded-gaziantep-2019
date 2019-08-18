@@ -9,6 +9,9 @@ function sayHeyFriend(name){
   return ("Hey," + name );
 }
 
-function favoriteIceCream (n)
-return ("I love <NAME_OF_ICECREAM>")
-
+function favoriteIceCream (n){
+return ("I love" + n )
+}
+function shouting(){
+  return()
+}
