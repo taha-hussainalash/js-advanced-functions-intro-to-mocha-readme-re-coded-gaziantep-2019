@@ -1,8 +1,8 @@
-function  thetruth (Number) {
-  if (Number) {
-    return true;
-  } else {
+function  thetruth (10,15) {
+  if (10 === 15) {
     return false;
+  } else {
+    return true;
   }
 }
 
