@@ -1,4 +1,5 @@
 function  thetruth () {
+  if (1 > 0)
   return true;
 }
 
