@@ -3,7 +3,7 @@ function  thetruth (flavor) {
 }
 
 function sayHey(){
-  return ("hey!");
+  return ("Hey!");
 }
 function sayHeyFriend(name){
   return ("hey+ ${ name }");
