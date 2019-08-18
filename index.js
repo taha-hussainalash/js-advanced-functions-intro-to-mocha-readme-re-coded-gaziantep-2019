@@ -9,5 +9,6 @@ function sayHeyFriend(name){
   return ("Hey," + name );
 }
 
-function 
+function favoriteIceCream (n)
+return ("")
 
