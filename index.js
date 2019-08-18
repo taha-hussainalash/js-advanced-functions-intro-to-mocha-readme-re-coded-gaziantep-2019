@@ -13,7 +13,7 @@ function favoriteIceCream (n){
 return ("I love" + n )
 }
 function shouting(){
-  return("");
+  return("I LOVE JAVASCRIPT SOOOOOO MUCHs");
 }
 
 function roundDown(Number){
