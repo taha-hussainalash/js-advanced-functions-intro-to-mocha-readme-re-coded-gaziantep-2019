@@ -15,3 +15,7 @@ return ("I love" + n )
 function shouting(){
   return()
 }
+
+function roundDown(Number){
+  return(Math.floor(Number))
+}
