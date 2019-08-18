@@ -6,7 +6,7 @@ function sayHey(){
   return ("Hey!");
 }
 function sayHeyFriend(name){
-  return ("Hey,Kristin!" );
+  return ("Hey," +  );
 }
 
 function favoriteIceCream (n){
