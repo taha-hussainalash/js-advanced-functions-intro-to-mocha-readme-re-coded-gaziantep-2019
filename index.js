@@ -1,5 +1,5 @@
-function  thetruth (flavor) {
-  debugger;
+function  thetruth () {
+  return (true);
 }
 
 function sayHey(){
