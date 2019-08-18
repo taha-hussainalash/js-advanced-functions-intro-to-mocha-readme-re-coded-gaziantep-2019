@@ -1,12 +1,12 @@
 function  thetruth () {
-  return (true);
+  return true;
 }
 
 function sayHey(){
   return ("Hey!");
 }
 function sayHeyFriend(name){
-  return ("Hey," +  );
+  return ("Hey," + name );
 }
 
 function favoriteIceCream (n){
