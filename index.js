@@ -1,5 +1,5 @@
-function  thetruth (a,b) {
-  if (a === b) {
+function  thetruth (Number) {
+  if (Number) {
     return true;
   } else {
     return false;
