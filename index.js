@@ -10,5 +10,5 @@ function sayHeyFriend(name){
 }
 
 function favoriteIceCream (n)
-return ("")
+return ("I love <NAME_OF_ICECREAM>")
 
