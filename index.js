@@ -12,8 +12,8 @@ function sayHeyFriend(name){
 function favoriteIceCream (n){
 return ("I love" + n )
 }
-function shouting(){
-  return("all caps");
+function shouting(n){
+  return("n");
 }
 
 function roundDown(Number){
